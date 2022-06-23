@@ -1,6 +1,6 @@
-# test-repository
+# Test repository
 
-This is a repositry created for testing Git and GitHub
+This is a repository created for testing Git and GitHub
 
 Hello I'm updating
 

@@ -2,6 +2,5 @@
 
 This is a repository created for testing Git and GitHub
 
-Hello I'm updating
 
-
+this is  a change made from Miguel
